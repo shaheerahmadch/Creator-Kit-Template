@@ -5,8 +5,10 @@
 Discover a seamless experience with our responsive canvas app – Enjoy a familiar interface with modern convenience, making communication a breeze.
 
 📢 This project has been a labor of love, and it's now ready for you to explore. With this app, you can:
+
 📱 Enjoy a user-friendly, responsive design
-🌐 Stay connected with ease, anytime, anywhere
+
+🌐 Manage your Accounts & Contacts
 
 ![Screenshot 2023-09-02 130516](./assets/Screenshot%202023-10-21%20160340.png)
 
