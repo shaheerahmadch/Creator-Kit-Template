@@ -10,11 +10,14 @@ Discover a seamless experience with our responsive canvas app – Enjoy a famili
 
 🌐 Manage your Accounts & Contacts
 
+📢 Upload Documents to SharePoint
+
 ![Screenshot 2023-09-02 130516](./assets/Screenshot%202023-10-21%20160340.png)
 
 ## Applies to
 
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-Yes-green "Yes")
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Yes-green "Yes")
 
 ## Compatibility
 ![Premium License](https://img.shields.io/badge/Premium%20License-Not%20Required-red.svg "Premium license not required")
@@ -28,7 +31,7 @@ Discover a seamless experience with our responsive canvas app – Enjoy a famili
 
 Version|Date|Comments
 -------|----|--------
-1.0|July 2, 2023|Initial release
+1.0|November 17, 2023|Initial release
 
 ## Prerequisites
 
@@ -39,7 +42,10 @@ Version|Date|Comments
 The following solution components are used in this sample:
 
 * Creator Kit Template (Canvas app)
-
+* Documents (Environment Variable)
+* SharePoint Connection Reference (Connection Reference)
+* SharePoint Site (Environment Variable)
+* Upload a File to SharePoint (Flow)
 
 ## Minimal Path to Awesome
 
