@@ -30,7 +30,7 @@ Version|Date|Comments
 
 ## Prerequisites
 
-None
+* [Creator Kit](https://learn.microsoft.com/power-platform/guidance/creator-kit/overview?wt.mc_id=studentamb_280505)
 
 ## Solution Components
 
